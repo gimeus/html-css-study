@@ -9,7 +9,7 @@
     <a href="https://github.com/gimeus/html-css-study/tree/main/02-1">02-1 텍스트를 덩어리로 묶어 주는 태그</a><br>
     <a href="https://github.com/gimeus/html-css-study/tree/main/02-2">02-2 텍스트를 한 줄로 표시하는 태그</a><br>
     <a href="https://github.com/gimeus/html-css-study/tree/main/02-3">02-3 목록을 만드는 태그</a><br>
-    02-4 표를 만드는 태그
+    <a href="https://github.com/gimeus/html-css-study/tree/main/02-4">02-4 표를 만드는 태그</a>
     
   <h2>3. 이미지와 하이퍼링크</h2>
     03-1 이미지<br>
