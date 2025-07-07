@@ -12,7 +12,7 @@
     <a href="https://github.com/gimeus/html-css-study/tree/main/02-4">02-4 표를 만드는 태그</a>
     
   <h2>3. 이미지와 하이퍼링크</h2>
-    03-1 이미지<br>
+    <a href="https://github.com/gimeus/html-css-study/tree/main/03-1">03-1 이미지</a><br>
     03-2 링크 만들기<br>
     03-3 SVG 이미지
     
