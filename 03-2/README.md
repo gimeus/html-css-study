@@ -62,7 +62,7 @@
   </tr>
   <tr>
   <td>_self</td>
-  <th>target 속성의 기본 값으로 링크가 있는 화면에서 열립니다.</th>
+  <td><b>target 속성의 기본 값으로 링크가 있는 화면에서 열립니다.</b></td>
   </tr>
   <tr>
   <td>_parent</td>
@@ -82,5 +82,49 @@
 
 <h2>&lt;map&gt; 태그, &lt;a&gt; 태그, usemap 속성 - 이미지 맵 지정하기</h2>
   <p>
-앞에서 배운 이미지 링크는 하나의 이미지에 하나의 링크를 걸었습니다. 그런데 하나의 이미지에 여러개의 링크를 걸 수도 있습니다. 즉 한 이미지상에서 클릭 위치에 따라 서로 다른 링크가 열리는 것이죠. 이것을 '이미지 맵'이라고 합니다. 일반적으로 웹 사이트보다 메일 등에서 사용합니다. 이미지 맵은 이미지에 영역을 만든 후 링크를 추가해야 하기 때문에 &lt;map&gt; 태그를 이용해 이미지 맵을 만들고 &lt;img&gt; 태그에서 usemap 속성으로 이미지 맵을 지정합니다. 이미지 맵으로 사용할 이미지에 영역을 표시할 때는 &lt;area&gt; 태그를 사용하는데 &lt;area&gt; 태그에서 사용할 수 있는 속성은 다음과 같습니다.
+앞에서 배운 이미지 링크는 하나의 이미지에 하나의 링크를 걸었습니다. 그런데 하나의 이미지에 여러개의 링크를 걸 수도 있습니다. 즉 한 이미지상에서 클릭 위치에 따라 서로 다른 링크가 열리는 것이죠. 이것을 '이미지 맵'이라고 합니다. 일반적으로 웹 사이트보다 메일 등에서 사용합니다. 이미지 맵은 이미지에 영역을 만든 후 링크를 추가해야 하기 때문에 &lt;map&gt; 태그를 이용해 이미지 맵을 만들고 &lt;img&gt; 태그에서 usemap 속성으로 이미지 맵을 지정합니다. 이미지 맵으로 사용할 이미지에 영역을 표시할 때는 &lt;area&gt; 태그를 사용하는데 &lt;area&gt; 태그에서 사용할 수 있는 속성은 다음과 같습니다.<br>
+  <table>
+  <tr>
+  <th>속성</th>
+  <th colspan="3">설명</th>
+  </tr>
+  <tr>
+  <td>alt</td>
+  <td colspan="3">대체 텍스트를 지정합니다.</td>
+  </tr>
+  <tr>
+  <td>coords</td>
+  <td colspan="3">링크로 사용할 영역을 시작 좌표와 끝 좌표를 이용해 지정합니다.</td>
+  </tr>
+  <tr>
+  <td>href</td>
+  <td colspan="3">링크 문서(사이트) 경로를 지정합니다.</td>
+  </tr>
+  <tr>
+  <td>media</td>
+  <td colspan="3">링크 문서(사이트)를 어떤 미디어에 최적화시킬지 지정합니다.</td>
+  </tr>
+  <tr>
+  <td>rel</td>
+  <td>현재 문서와 링크 문서 사이의 관계를 지정합니다.</td>
+  <td>속성 값</td>
+  <td>lternate, bookmark, help, license, next, nofollow, noreferer, prefetch, prev, search, tag</td>
+  </tr>
+  <tr>
+  <td>shape</td>
+  <td>링크로 사용할 영역의 형태를 지정합니다.</td>
+  <td>속성 값</td>
+  <td>default, rect, circle, poly</td>
+  </tr>
+  <tr>
+  <td>target</td>
+  <td>링크를 표시할 대상을 지정합니다.</td>
+  <td>속성 값</td>
+  <td>_black, _parent, _self, _top, 프레임 이름</td>
+  </tr>
+  <tr>
+  <td>type</td>
+  <td colspan="3">링크 문서의 미디어 유형을 지정합니다.</td>
+  </tr>
+  </table>
   </p>
