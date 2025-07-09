@@ -14,7 +14,7 @@
   <h2>3. 이미지와 하이퍼링크</h2>
     <a href="https://github.com/gimeus/html-css-study/tree/main/03-1">03-1 이미지</a><br>
     <a href="https://github.com/gimeus/html-css-study/blob/main/03-2/README.md">03-2 링크 만들기</a><br>
-    03-3 SVG 이미지
+    <a href="https://github.com/gimeus/html-css-study/tree/main/03-3">03-3 SVG 이미지
     
   <h2>4. 폼 관련 태그들</h2>
     04-1 폼 만들기<br>
